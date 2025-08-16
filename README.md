@@ -93,17 +93,17 @@ Website Interface
 
 👥Team Members
 
-Ashmitha Udayachandran: 
+01.Ashmitha Udayachandran: 
  Role (Ultrasonic sensors integration with resetting arm mechanism, Servo motors inegration, Implementation of the website)
 
-Arulanantharasa Nirsanth:
+02.Arulanantharasa Nirsanth:
  Role (Programmed the controled code for the Y axis stepper motor operation, Connecting OLED display to show the scores)
 
-Fahma Rizan:
+03.Fahma Rizan:
  Role (Implementing scoring system using laser and LDR, Implementing game levels; Level 1, Level 2, Level 3)
 
-Janaka Sachin Dissanayaka
+04.Janaka Sachin Dissanayaka
  Role (Designing the PCB, Programmed the controled code for the X axis stepper motor operation, Connecting and inegrating WI Fi module with the arduino, programed for selecting game levels using joystick, implementing pause,resume, undo buttons)
 
-W.P Imasha Dilshani
+05.W.P Imasha Dilshani
  Role (Integrating IR sensor and servo motors, developing code for hitting arm mechanism)

@@ -87,7 +87,7 @@ Schematic Diagram of the PCB
 
 
 Website Interface
-<img width="542" height="1043" alt="image" src="https://github.com/user-attachments/assets/74b480fa-73f0-4d4b-8120-45ec86fb0acd" />
+<img width="500" height="900" alt="image" src="https://github.com/user-attachments/assets/74b480fa-73f0-4d4b-8120-45ec86fb0acd" />
 
 
 

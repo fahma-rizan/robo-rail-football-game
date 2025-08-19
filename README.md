@@ -82,15 +82,15 @@ Joystick Modules (player control)
 
 **02.Arulanantharasa Nirsanth:**  
 
- Role (Programmed the controlled code for the Y axis stepper motor operation, Connecting OLED display to show the scores)
+ Role (Programmed the controlled code for the Y-axis stepper motor operation, Connecting OLED display to show the scores)
 
 **03.Fahma Rizan:**  
 
- Role (Implementing scoring system using laser and LDR, Implementing game levels; Level 1, Level 2, Level 3)
+ Role (Implementing scoring system using laser and LDR, Implementing game levels: Level 1, Level 2, Level 3)
 
 **04.Janaka Sachin Dissanayaka:**  
 
- Role (Designing the PCB, Programmed the controlled code for the X axis stepper motor operation, Connecting and integrating Wi-Fi module with the arduino, programmed for selecting game levels using joystick, implementing pause,resume, undo buttons)
+ Role (Designing the PCB, Programmed the controlled code for the X-axis stepper motor operation, Connecting and integrating Wi-Fi module with the arduino, programmed for selecting game levels using joystick, implementing pause, resume, undo buttons)
 
 **05.W.P Imasha Dilshani:**  
 

@@ -74,20 +74,6 @@ Joystick Modules (player control)
 12V Battery + Buck Converter for regulated logic and motor power
 
 
-Circuit Diagram
-<img width="2603" height="1120" alt="image" src="https://github.com/user-attachments/assets/319de9f6-a541-460a-8566-4341c562bffd" />
-
-
-PCB Design
-<img width="1706" height="1288" alt="image" src="https://github.com/user-attachments/assets/807491f7-2443-4a03-82ee-08529d89ba7c" />
-
-
-Schematic Diagram of the PCB
-<img width="1799" height="1405" alt="image" src="https://github.com/user-attachments/assets/80ec1be5-42a8-4ddd-be63-32d3abb1f4fb" />
-
-
-Website Interface
-<img width="500" height="900" alt="image" src="https://github.com/user-attachments/assets/74b480fa-73f0-4d4b-8120-45ec86fb0acd" />
 
 
 

@@ -71,25 +71,27 @@ Joystick Modules (player control)
 
 ### Power Supply:
 
-12V Battery + Buck Converter for regulated logic and motor power
-
-
-
+12V Battery with buck converter for regulated logic and motor power
 
 
 ## 👥Team Members
 
-### 01.Ashmitha Udayachandran: 
- Role (Ultrasonic sensors integration with resetting arm mechanism, Servo motors inegration, Implementation of the website)
+**01.Ashmitha Udayachandran:**  
 
-### 02.Arulanantharasa Nirsanth:
- Role (Programmed the controled code for the Y axis stepper motor operation, Connecting OLED display to show the scores)
+ Role (Ultrasonic sensors integration with resetting arm mechanism, Servo motors integration, Implementation of the website)
 
-### 03.Fahma Rizan:
+**02.Arulanantharasa Nirsanth:**  
+
+ Role (Programmed the controlled code for the Y axis stepper motor operation, Connecting OLED display to show the scores)
+
+**03.Fahma Rizan:**  
+
  Role (Implementing scoring system using laser and LDR, Implementing game levels; Level 1, Level 2, Level 3)
 
-### 04.Janaka Sachin Dissanayaka
- Role (Designing the PCB, Programmed the controled code for the X axis stepper motor operation, Connecting and inegrating WI Fi module with the arduino, programed for selecting game levels using joystick, implementing pause,resume, undo buttons)
+**04.Janaka Sachin Dissanayaka:**  
 
-### 05.W.P Imasha Dilshani
+ Role (Designing the PCB, Programmed the controlled code for the X axis stepper motor operation, Connecting and integrating Wi-Fi module with the arduino, programmed for selecting game levels using joystick, implementing pause,resume, undo buttons)
+
+**05.W.P Imasha Dilshani:**  
+
  Role (Integrating IR sensor and servo motors, developing code for hitting arm mechanism)
